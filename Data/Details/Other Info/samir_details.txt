@@ -1,0 +1,12 @@
+Name : samir
+Age : 22
+Gender : Male
+Date of Birth : 11/11/2001
+Father Name : samir
+Mother Name : samir
+Mobile Number : 1234567890
+Aadhar Number : 123412341234
+Address : ktm
+          ktm
+          ktm 123456
+          ktm

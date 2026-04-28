@@ -1,0 +1,12 @@
+Name : aabhas
+Age : 22
+Gender : Male
+Date of Birth : 11/11/2001
+Father Name : aavash
+Mother Name : aavash
+Mobile Number : 1234567890
+citizenship Number : 123412341234
+Address : ktm
+          ktm
+          ktm 562112
+          ktm
